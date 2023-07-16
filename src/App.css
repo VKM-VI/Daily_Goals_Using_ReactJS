@@ -1,0 +1,66 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+
+}
+
+nav{
+  background-color: rgb(44, 47, 47);
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+body{
+  background-color: rgb(90, 95, 93);
+}
+.container{
+  width: 50%;
+  margin: auto;
+  min-height: 100vh;
+  margin-top: 20px;
+}
+
+.container > form{
+  display: flex;
+  flex-direction: column;
+
+}
+.container > form > button{
+  height: 4em;
+  
+}
+.container > form > button:hover{
+  background-color: aquamarine;
+  
+}
+.container > form > textarea,input,button{
+  padding: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.941);
+  border-radius: 5px;
+  margin: 10px 0;
+}
+.task{
+  display: flex;
+  background-color: white;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 5px;
+  align-items: center;
+  background-color: rgb(141, 255, 240);
+}
+.task > div{
+  width: 100%;
+}
+.task > button{
+  height: 5px;
+  width: 5px;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6em;
+  align-items: center;
+}
+
+.task> button:hover{
+  background-color: rgb(77, 237, 77);
+}

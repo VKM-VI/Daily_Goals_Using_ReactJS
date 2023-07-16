@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Daily_Goals_Using_ReactJS/static/css/main.fb95b7d1.css",
+    "main.js": "/Daily_Goals_Using_ReactJS/static/js/main.ab3de8d7.js",
+    "static/js/787.d3befce1.chunk.js": "/Daily_Goals_Using_ReactJS/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Daily_Goals_Using_ReactJS/index.html",
+    "main.fb95b7d1.css.map": "/Daily_Goals_Using_ReactJS/static/css/main.fb95b7d1.css.map",
+    "main.ab3de8d7.js.map": "/Daily_Goals_Using_ReactJS/static/js/main.ab3de8d7.js.map",
+    "787.d3befce1.chunk.js.map": "/Daily_Goals_Using_ReactJS/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb95b7d1.css",
+    "static/js/main.ab3de8d7.js"
+  ]
+}
